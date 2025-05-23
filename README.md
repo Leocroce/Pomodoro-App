@@ -29,12 +29,14 @@ Um temporizador Pomodoro simples feito em Python com interface gráfica (Tkinter
 
 4. Como personalizar os tempos
 
-Altere os valores das constantes no início do arquivo main.py para definir os tempos de trabalho e descanso:
-# ---------------------------- CONSTANTES ------------------------------- #
+  Altere os valores das constantes no início do arquivo main.py para definir os tempos de trabalho e descanso:
+## ---------------------------- CONSTANTES -------------------------------
+
+```python
 WORK_MIN = 25         # Tempo de trabalho em minutos
 SHORT_BREAK_MIN = 5   # Tempo de descanso curto em minutos
 LONG_BREAK_MIN = 20   # Tempo de descanso longo em minutos
-
+```
 
 ## Como usar
 
