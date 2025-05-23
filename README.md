@@ -1,4 +1,4 @@
-![Pomodoro Timer Screenshot](assets/screenshot.png)
+![Pomodoro Timer Screenshot](assets/app_img.png)
 
 # Pomodoro Timer
 
