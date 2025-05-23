@@ -27,6 +27,14 @@ Um temporizador Pomodoro simples feito em Python com interface gráfica (Tkinter
 
 3. Certifique-se de que os arquivos `tomato.png` e `notification-alert-1-331727.mp3` estão na pasta `assets/`.
 
+4. Como personalizar os tempos
+
+# ---------------------------- CONSTANTES ------------------------------- #
+WORK_MIN = 25         # Tempo de trabalho em minutos
+SHORT_BREAK_MIN = 5   # Tempo de descanso curto em minutos
+LONG_BREAK_MIN = 20   # Tempo de descanso longo em minutos
+
+
 ## Como usar
 
 Execute o programa:
