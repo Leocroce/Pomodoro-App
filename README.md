@@ -1,4 +1,6 @@
-![Pomodoro Timer Screenshot](assets/app_img.png)
+<p align="center">
+  <img src="assets/app_img.png" alt="Pomodoro Timer Screenshot" />
+</p>
 
 # Pomodoro Timer
 
